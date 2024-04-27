@@ -1,5 +1,3 @@
-npm install github-markdown-css
-
 # toki
 
 ni li tomo pi lipu ale `nprghu`!
