@@ -4,7 +4,7 @@ ni li tomo pi lipu ale `nprghu`!
 
 ## lipu ale
 
-### awen sona
+### awen sona en tomo
 
 - **P000-EN** [tomo pi lipu ale](/)
   - **P001-EN** [1.html](nprghu.github.com/portal/1.html)
