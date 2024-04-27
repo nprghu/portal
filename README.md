@@ -5,9 +5,10 @@ You have landed on `nprghu`'s code portal for all projects!
 
 ## Project List
 
-### Practice
+### Practice and Portal
 
-- **P000-EN** [Practice main page](nprghu.github.com/practice)
+- **P000-EN** [Portal](/)
+  - **P001-EN** [1.html](/1.html)
 
 # Language Options | Les langues | toki ale
 
