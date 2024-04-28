@@ -1,34 +1,176 @@
-<title>tomo</title>
+<!DOCTYPE html>
 <head>
+    <title>
+        tomo
+    </title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@600&display=swap" rel="stylesheet">
+
+    <style>
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        body {
+            background-color: black;
+        }
+
+        hr {
+            height: 5px;
+            border: none;
+            background-color: #555;
+        }
+
+        * {
+            font-family: "Schibsted Grotesk", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 600;
+            font-style: normal;
+            color: white;
+        }
+
+        h1, h2, h3, h4, h5, h6, p {
+            color: white;
+            animation-name: text-;
+            animation-duration: 1s;
+        }
+
+        h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover, p:hover {
+            color: #6Fc276;
+            animation-name: text-hover;
+            animation-duration: 1s;
+        }
+
+        @keyframes text-hover {
+            from {color: white}
+            to {color: #6Fc276}
+        }
+
+        @keyframes text- {
+            to {color: white}
+            from {color: #6FC276}
+        }
+
+        .link {
+            color: #6FC0D8;
+            text-decoration-line: none;
+            animation-name: link-;
+            animation-duration: 1s;
+            font-size: 20px;
+        }
+        
+        @keyframes link- {
+            from {color: #AF69EF};
+            to {color: #6FC0D8};
+        }
+
+        @keyframes link-hover {
+            from {color: #6FC0D8}
+            to {color: #AF69EF}
+        }
+
+        .link:hover {
+            color: #AF69EF;
+            animation-name: link-hover;
+            animation-duration: 1s;
+        }
+
+        ul, li {
+            list-style-type: none;
+        }
+        
+        blockquote {
+          border-left: 5px solid #333;
+          margin: 1.5em 10px;
+          padding: 0.5em 10px;
+        }
+        blockquote:before {
+          color: #333;
+          font-size: 4em;
+          line-height: 0.1em;
+          margin-right: 0.25em;
+          vertical-align: -0.4em;
+        }
+        blockquote p {
+          display: inline;
+          color: #aaa;  
+        }
+
+        .warning {
+            color: #F17829;
+            font-size: 20px;
+        }
+    </style>
+</head>
 <body>
-   <h1><a id="user-content-h1" class="anchor" href="#h1" aria-hidden="true"><span class="octicon octicon-link"></span></a>toki</h1>
-   <p>ni li tomo pi lipu ale <pre lang="no-highlight"><code>nprghu</code></pre>!</p>
-   <h2><a id="user-content-h2" class="anchor" href="#h1" aria-hidden="true"><span class="octicon octicon-link"></span></a>lipu ale</h2>
-   <h3><a id="user-content-h2" class="anchor" href="#h1" aria-hidden="true"><span class="octicon octicon-link"></span></a>awen sona en tomo</h2>
-   <ul>
-      <li>
-         <strong>P000-EN</strong> <a href="/">tomo pi lipu ale</a>
-         <ul>
-            <li><strong>P001-EN</strong> <a href="nprghu.github.com/portal/1.html">1.html</a></li>
-         </ul>
-      </li>
-   </ul>
-   <h1 id="toki-ale-les-langues-language-options">toki ale | Les langues | Language Options</h1>
-   <h2 id="en-fran-ais">En français</h2>
-   <p>Pour voir ce page en français, <a href="nprghu.github.com/portal/fr-acceuil">cliquez ici</a>.</p>
-   <blockquote>
-      <p>[!WARNING]
-         La page n&#39;est pas prêt maintenant. Merci pour comprendre.
-      </p>
-   </blockquote>
-   <h2 id="for-english">For English</h2>
-   <p>For the English version, please click <a href="npr.github.com/portal/">here</a>.</p>
-   <h2 id="toki-namako">toki namako</h2>
-   <p>toki Panse la o tawa tawa <a href="./fr-acceuil">ni</a>.</p>
-   <p>toki Inli la o tawa tawa <a href="npr.github.com/portal">ni</a>.</p>
-   <blockquote>
-      <p>[!WARNING]
-         lipu toki Panse li pini ala. ike la mi pali e ona.
-      </p>
-   </blockquote>
+    <div>
+        <h1>
+            toki!
+        </h1>
+        <hr>
+            <p>
+                ni li lipu tomo pi lipu @nprghu!
+            </p>
+    </div>
+    <div>
+        <h1>
+            lipu
+        </h1>
+        <hr>
+            <h2>
+                tomo en awen sona
+            </h2>
+            <ul>
+                <li>
+                    <a class="link" href="https://nprghu.github.io/portal/tok/tomo">P000-TOK</a>
+                    - tomo
+                    <ul>
+                        <li>
+                            <a class="link" href="https://nprghu.github.io/portal/1.html">P001-EN</a>
+                            - awen sona nanpa wan
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+    </div>
+    <div>
+        <h1>toki ale - Languages - Les langues</h1>
+        <hr>
+        <div>
+            <h2>
+                Pour français
+            </h2>
+            <a class="link" href="nprghu.github.io/portal/fr/acceuil.html">Voilà</a>
+            cette page d'acceuil en français.
+            <blockquote>
+                <a class="warning">Attention!</a>
+                <br>
+                <p>La page n'est pas prêt maintenant. Désolé pour vous ennuyer.</p>
+            </blockquote>
+        </div>
+        <div>
+            <h2>
+                For English
+            </h2>
+            <a class="link" href="nprghu.github.io/portal/">Here</a>
+            is this portal page in English.
+        </div>
+        <div>
+            <h2>
+                toki ante
+            </h2>
+            <a class="link" href="nprghu.github.io/portal/fr/acceuil.html">ni</a>
+            li lipu tomo pi toki Panse.
+            <blockquote>
+                <a class="warning">monsuta</a>
+                <br>
+                <p>lipu li pini ala. ike la mi pali e ni.</p>
+            </blockquote>
+            
+            <a class="link" href="nprghu.github.io/portal/">ni</a>
+            li lipu tomo pi toki Inli.
+        </div>
+    </div>
 </body>
