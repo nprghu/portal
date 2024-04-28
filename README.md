@@ -14,23 +14,23 @@ You have landed on `nprghu`'s code portal for all projects!
 
 ## En français
 
-Pour voir cette page en français, [cliquez ici](nprghu.github.com/portal/fr/acceuil).
+Pour voir cette page en français, [cliquez ici](//fr/acceuil).
 
 > [!WARNING]
 > La page n'est pas prêt maintenant. Merci pour comprendre.
 
 ## lon toki pona
 
-toki pona la o tawa tawa [ni](npr.github.com/portal/tok/tomo).
+toki pona la o tawa tawa [ni](//tok/tomo).
 
 > [!WARNING]
 > lipu li pini ala. ike la mi tawa e ona.
 
 ## Other languages
 
-To see the French version, [click here](npr.github.com/portal/fr/acceuil).
+To see the French version, [click here](//fr/acceuil).
 
-To see the toki pona version, [click here](npr.github.com/portal/tok/tomo).
+To see the toki pona version, [click here](//tok/tomo).
 
 > [!WARNING]
 > Both the French page and the toki pona page are not ready yet.
