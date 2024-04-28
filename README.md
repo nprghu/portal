@@ -14,7 +14,7 @@ You have landed on `nprghu`'s code portal for all projects!
 
 ## En français
 
-Pour voir ce page en français, [cliquez ici](nprghu.github.com/portal/fr/acceuil).
+Pour voir cette page en français, [cliquez ici](nprghu.github.com/portal/fr/acceuil).
 
 > [!WARNING]
 > La page n'est pas prêt maintenant. Merci pour comprendre.
