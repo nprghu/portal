@@ -1,1 +1,91 @@
+body {
+    background-color: black;
+    margin-left: 20%;
+    margin-right: 20%;
+}
 
+hr {
+    height: 5px;
+    border: none;
+    background-color: #555;
+}
+
+* {
+    font-family: "Schibsted Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: white;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    color: white;
+    animation-name: text-;
+    animation-duration: 1s;
+}
+
+h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover, p:hover {
+    color: #6FC0D8;
+    animation-name: text-hover;
+    animation-duration: 1s;
+}
+
+@keyframes text-hover {
+    from {color: white}
+    to {color: #6FC0D8}
+}
+
+@keyframes text- {
+    to {color: white}
+    from {color: #6FC0D8}
+}
+
+.link {
+    color: #6FC0D8;
+    text-decoration-line: none;
+    animation-name: link-;
+    animation-duration: 1s;
+    font-size: 20px;
+}
+
+@keyframes link- {
+    from {color: #AF69EF};
+    to {color: #6FC0D8};
+}
+
+@keyframes link-hover {
+    from {color: #6FC0D8}
+    to {color: #AF69EF}
+}
+
+.link:hover {
+    color: #AF69EF;
+    animation-name: link-hover;
+    animation-duration: 1s;
+}
+
+ul, li {
+    list-style-type: none;
+}
+
+blockquote {
+  border-left: 5px solid #333;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+}
+blockquote:before {
+  color: #333;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+  color: #aaa;  
+}
+
+.warning {
+    color: #F17829;
+    font-size: 20px;
+}
