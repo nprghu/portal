@@ -8,9 +8,9 @@ You have landed on `nprghu`'s code portal for all projects!
 ### Practice and Portal
 
 > [!WARNING]
-> Some pages don't have English translations.
-> Pages ending in "-TOK" are toki pona only.
-> Pages ending in "-FR" are French only.
+> Some pages don't have English translations.\
+> Pages ending in "-TOK" are toki pona only.\
+> Pages ending in "-FR" are French only.\
 > Sorry for the inconvenience.
 
 - **P000-EN** [Portal](https://nprghu.github.io/portal/)
