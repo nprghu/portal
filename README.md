@@ -31,6 +31,3 @@ toki pona la o tawa tawa [ni](https://nprghu.github.io/portal/tok/tomo).
 To see the French version, [click here](https://nprghu.github.io/portal/fr/acceuil).
 
 To see the toki pona version, [click here](https://nprghu.github.io/portal/tok/tomo).
-
-> [!WARNING]
-> Both the French page and the toki pona page are not ready yet.
