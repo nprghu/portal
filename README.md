@@ -7,6 +7,12 @@ You have landed on `nprghu`'s code portal for all projects!
 
 ### Practice and Portal
 
+> [!WARNING]
+> Some pages don't have English translations.
+> Pages ending in "-TOK" are toki pona only.
+> Pages ending in "-FR" are French only.
+> Sorry for the inconvenience.
+
 - **P000-EN** [Portal](https://nprghu.github.io/portal/)
   - **P001-EN** [1.html](https://nprghu.github.io/1.html)
 
@@ -16,15 +22,9 @@ You have landed on `nprghu`'s code portal for all projects!
 
 Pour voir cette page en français, [cliquez ici](https://nprghu.github.io/portal/fr/acceuil).
 
-> [!WARNING]
-> La page n'est pas prêt maintenant. Merci pour comprendre.
-
 ## lon toki pona
 
 toki pona la o tawa tawa [ni](https://nprghu.github.io/portal/tok/tomo).
-
-> [!WARNING]
-> lipu li pini ala. ike la mi tawa e ona.
 
 ## Other languages
 
